@@ -1,4 +1,8 @@
-# Back into blogging
+---
+layout: post
+title: "Back into Blogging"
+date: 2019-07-29
+---
 
 I spent the last week or so working through various things for the autumn ahead, and one of the biggest things I've missed in the last few months has been blogging. It's easy to let it go of course, but one of the challenges sometimes is **what** do I talk about anyway?
 
