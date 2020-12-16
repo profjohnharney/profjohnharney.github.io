@@ -28,7 +28,7 @@ twitter_username: profjohnharney
 github_username:  profjohnharney
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
