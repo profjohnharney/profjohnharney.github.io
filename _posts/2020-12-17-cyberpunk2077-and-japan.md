@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*Cyberpunk 2077* and Japan"
+title:  "__Cyberpunk 2077__ and Japan"
 date:   2020-12-15 18:38:45 -0500
 categories: jekyll update
 ---
