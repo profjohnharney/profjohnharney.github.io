@@ -27,6 +27,10 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+# for themes, I am adding here
+
+gem "minima", "~> 2.0"
+
 # time machine theme gemfile, needed - I think - to preview on computer
 # does not seem to work, conflict...
 # gem "github-pages", group: :jekyll_plugins
