@@ -4,7 +4,7 @@ title:  "*Cyberpunk 2077* and Japan"
 date:   2020-12-15 18:38:45 -0500
 categories: jekyll update
 ---
-This is really just a test post, as I muck around with categories on the new blog site.
+This is really just a test post, as I muck around with *categories* on the new blog site.
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
