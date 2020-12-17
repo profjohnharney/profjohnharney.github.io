@@ -2,7 +2,7 @@
 layout: post
 title:  "Cyberpunk 2077 and Japan"
 date:   2020-12-15 18:38:45 -0500
-categories: teaching
+categories: jekyll update
 ---
 This is really just a test post, as I muck around with categories on the new blog site.
 
