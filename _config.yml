@@ -28,12 +28,11 @@ twitter_username: profjohnharney
 github_username:  profjohnharney
 
 # Build settings
-theme: minima
+remote-theme: LeNPaul/Millenial
+markdown: kramdown
 plugins:
   - jekyll-feed
 
-# I guess I need to specify markdown...
-markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
