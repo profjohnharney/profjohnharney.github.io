@@ -21,7 +21,7 @@
 title: John Harney, PhD
 email: john.harney@centre.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  History professor at a small liberal arts college writes about technology and pedagogy. And video games.
+  I write about technology, pedagogy, and video games.
 baseurl: "" # the subpath of your site, e.g. /JekyllDemo
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: profjohnharney
