@@ -2,6 +2,8 @@
 # layout: single
 title: 
 permalink: /
+header: 
+    image: /_images/ck3_banner.jpg
 ---
 I am an Associate Professor of History at [Centre College](http://www.centre.edu), a small and selective liberal arts college in the Bluegrass region of central Kentucky. My research focuses on the history of East Asia in the twentieth century, particularly in the evolution of cultural communities in colonial, post-colonial and post-imperial societies in China and Taiwan in the interwar period. I am the author of [Empire of Infields: Baseball in Taiwan and Cultural Identity, 1895-1968]("https://www.nebraskapress.unl.edu/university-of-nebraska-press/9780803286825/"), and have published research on youth baseball in colonial Taiwan and American Catholic missionaries living in rural China during the Republican period (1911-1949).
 
