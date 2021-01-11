@@ -1,7 +1,7 @@
 ---
 # layout: single
-title: Teaching
-permalink: /teaching/
+title: CV
+permalink: /cv/
 ---
 
 ## UNDER CONSTRUCTION

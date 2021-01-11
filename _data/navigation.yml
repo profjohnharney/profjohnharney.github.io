@@ -1,13 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: /
+  - title: "CV"
+    url: /cv/
   - title: "Teaching"
     url: /teaching/
-  - title: "Tech"
+  - title: "Digital Projects"
     url: /tech/
-  - title: "Video Games"
-    url: /videogames/
+  - title: "Writing"
+    url: /writing/
   
   
   
