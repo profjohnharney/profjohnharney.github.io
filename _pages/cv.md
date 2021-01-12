@@ -1,8 +1,15 @@
 ---
 # layout: single
+toc: true
+toc_label: "Summary"
+
 title: CV
 permalink: /cv/
 ---
+
+# Check
+## again
+### hmmm
 
 ## UNDER CONSTRUCTION
 
@@ -18,3 +25,11 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+## EDUCATION
+
+### stuff
+
+## COURSES TAUGHT
+
+### I guess....
