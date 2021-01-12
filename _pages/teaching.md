@@ -6,4 +6,4 @@ permalink: /teaching/
 
 ## UNDER CONSTRUCTION
 
-[HIS 110](https://profjohnharney.github.io/_pages/his110.md)
+[HIS 110](/teaching/his110/)
