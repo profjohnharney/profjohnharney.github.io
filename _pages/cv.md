@@ -4,7 +4,7 @@ toc: true
 toc_label: "CV"
 toc_sticky: true
 
-title: CV
+title: 
 permalink: /cv/
 ---
 # Research Interests  
@@ -24,7 +24,11 @@ Associate Professor of History, Centre College, 2019-
 
 # Selected Written Work (include RPS...)
 
+["Wolfenstein: Youngblood's impossible 80s setting makes you want to save the world."](https://www.rockpapershotgun.com/2020/01/08/wolfenstein-youngbloods-impossible-80s-setting-makes-you-want-to-save-the-world/) *Rock Paper Shotgun*, 8th January 2020.
+
 *Empire of Infields: Baseball in Taiwan and Cultural Identity, 1895-1968*. Lincoln, Nebraska: University of Nebraska Press (2019).
+
+["China might be able to help with North Korea - but only if President Trump switches tactics"](https://www.washingtonpost.com/news/made-by-history/wp/2018/01/18/china-might-be-able-to-help-with-north-korea-but-only-if-president-trump-switches-tactics/), *Made by History (Washington Post)*, 1st January 2018.
 
 “An American Adventure: The American Vincentians in Jiangxi before 1949,” *US Catholic Historian*, 34:2, 2016.
 
