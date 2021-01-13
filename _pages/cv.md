@@ -1,28 +1,28 @@
 ---
-# layout: single
+layout: single
 toc: true
 toc_label: "CV"
 toc_sticky: true
 
-title: 
+title:
 permalink: /cv/
 ---
-# Research Interests  
+## Research Interests  
 History of popular participation in modern sporting culture. Catholicism in twentieth century China. Representation and historical narrative in popular video games. 
 
-# Education
+## Education
 
 Ph.D., East Asian History, University of Texas at Austin, 2011    
 M.A., Chinese Studies, University of Sheffield, 2003    
 B.A., History and English Literature, University College Cork, 2002    
 
-# Experience
+## Experience
 
 Visiting Assistant Professor, DePaul University, 2011-2013    
 Assistant Professor, Centre College, 2013-2019    
 Associate Professor, Centre College, 2019-    
 
-# Selected Written Work
+## Selected Written Work
 
 ["Wolfenstein: Youngblood's impossible 80s setting makes you want to save the world."](https://www.rockpapershotgun.com/2020/01/08/wolfenstein-youngbloods-impossible-80s-setting-makes-you-want-to-save-the-world/) *Rock Paper Shotgun*, 8th January 2020.
 
@@ -38,7 +38,7 @@ Associate Professor, Centre College, 2019-
 
 “Youth Baseball and Colonial Identity in Taiwan, 1920-1968”, *NINE: A Journal of Baseball History and Culture*, 22:1, Fall  2013.
 
-# Selected Conference Talks
+## Selected Conference Talks
 
 “Oh Sadaharu: A Japanese Baseball Legend in the Cold War.” NINE Baseball History and Culture Spring Conference, 2020. Tempe, AZ.
 
@@ -50,19 +50,19 @@ Associate Professor, Centre College, 2019-
 
 “White “foreigners” and Asian Masters: the Rise of International eSports in Historical Context.” Northeastern Popular Culture Association, Annual Meeting 2013. Colchester, VT.
 
-# Digital Research and Pedagogy
+## Digital Research and Pedagogy
 
 [History Respawned](http://www.historyrespawned.com)   
 [Centre Trail](http://www.centretrail.com)
 
-# Selected Classes Taught
+## Selected Classes Taught
 
 Creating the Orient   
 [History Bots](https://ctl.centre.edu/2020/04/29/inspirations-faculty-profile-john-harney/)   
 [Popular Sport and the Modern World](https://sites.centre.edu/popularsport/)   
 [Spirits, Gods and Ghosts of East Asia](https://sites.centre.edu/ghostsofasia/)   
 
-# Language Skills
+## Language Skills
 
 Chinese    
 Japanese     
