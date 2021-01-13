@@ -4,7 +4,7 @@ toc: true
 toc_label: "CV"
 toc_sticky: true
 
-title: CV
+title: ""
 permalink: /cv/
 ---
 ## Research Interests  

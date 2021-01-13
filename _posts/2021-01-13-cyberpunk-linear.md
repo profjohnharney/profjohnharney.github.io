@@ -4,8 +4,8 @@ title:  "Cyberpunkin' in the quieter moments"
 date:   2021-01-13 11:11:23 -0500
 # categories: 
 
-# header: 
-#     image: /_images/cyberpunk.jpg
+header: 
+    image: /_images/cyberpunk.jpg
 ---
 *Cyberpunk 2077* is a controversial game for a lot of different reasons ranging from the [technical](https://www.tomsguide.com/reviews/cyberpunk-2077) to the [textual](https://www.polygon.com/reviews/22158019/cyberpunk-2077-review-cd-projekt-red-pc-ps4-xbox-one-stadia). I have found it to be a game I want to talk about a lot - and I have! You can have a listen [here](https://soundcloud.com/historyrespawned/episode-76-history-games-of-2020) - so I plan to produce at least one [History Respawned](http://www.historyrespawned) episode on it. That episode will almost certainly talk about the game's representation of a dystopian corporate-dominated futurism that features Japanese corporations along with East Asian people and culture in a way that reflects the late twentieth century roots of the cyberpunk genre. More of that to come.
 
