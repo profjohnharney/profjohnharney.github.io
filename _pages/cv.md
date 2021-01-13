@@ -4,7 +4,7 @@ toc: true
 toc_label: "CV"
 toc_sticky: true
 
-title: 
+title: ""
 permalink: /cv/
 ---
 # Research Interests  
@@ -22,7 +22,7 @@ Visiting Assistant Professor of History, DePaul University, 2011-2013
 Assistant Professor of History, Centre College, 2013-2019
 Associate Professor of History, Centre College, 2019-
 
-# Selected Written Work (include RPS...)
+# Selected Written Work
 
 ["Wolfenstein: Youngblood's impossible 80s setting makes you want to save the world."](https://www.rockpapershotgun.com/2020/01/08/wolfenstein-youngbloods-impossible-80s-setting-makes-you-want-to-save-the-world/) *Rock Paper Shotgun*, 8th January 2020.
 
@@ -52,21 +52,21 @@ Associate Professor of History, Centre College, 2019-
 
 # Digital Research and Pedagogy
 
-[History Respawned](http://www.historyrespawned.com)
+[History Respawned](http://www.historyrespawned.com)   
 [Centre Trail](http://www.centretrail.com)
 
 # Selected Classes Taught
 
-Creating the Orient
-[History Bots](https://ctl.centre.edu/2020/04/29/inspirations-faculty-profile-john-harney/)
-[Popular Sport and the Modern World](https://sites.centre.edu/popularsport/)
-[Spirits, Gods and Ghosts of East Asia](https://sites.centre.edu/ghostsofasia/)
+Creating the Orient   
+[History Bots](https://ctl.centre.edu/2020/04/29/inspirations-faculty-profile-john-harney/)   
+[Popular Sport and the Modern World](https://sites.centre.edu/popularsport/)   
+[Spirits, Gods and Ghosts of East Asia](https://sites.centre.edu/ghostsofasia/)   
 
 # Language Skills
 
-High reading competency in modern standard Chinese and Japanese      
-High level of spoken Mandarin Chinese, some spoken Japanese   
-Adequate French for research purposes    
-Beginner-level Korean   
+Chinese
+Japanese
+
+C#
 Python    
-C#   
+   
