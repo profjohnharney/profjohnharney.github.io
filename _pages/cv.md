@@ -4,7 +4,7 @@ toc: true
 toc_label: "CV"
 toc_sticky: true
 
-title: ""
+title: 
 permalink: /cv/
 ---
 # Research Interests  
@@ -12,15 +12,15 @@ History of popular participation in modern sporting culture. Catholicism in twen
 
 # Education
 
-Ph.D., Modern East Asian History, University of Texas at Austin, 2011
-M.A., Chinese Studies, University of Sheffield, 2003
-B.A., History and English Literature, University College Cork, 2002
+Ph.D., Modern East Asian History, University of Texas at Austin, 2011    
+M.A., Chinese Studies, University of Sheffield, 2003    
+B.A., History and English Literature, University College Cork, 2002    
 
 # Experience
 
-Visiting Assistant Professor of History, DePaul University, 2011-2013
-Assistant Professor of History, Centre College, 2013-2019
-Associate Professor of History, Centre College, 2019-
+Visiting Assistant Professor of History, DePaul University, 2011-2013    
+Assistant Professor of History, Centre College, 2013-2019    
+Associate Professor of History, Centre College, 2019-    
 
 # Selected Written Work
 

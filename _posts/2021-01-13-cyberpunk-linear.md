@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Cyberpunkin' in the quieter moments"
-date:   2021-01-09 11:11:23 -0500
-categories: jekyll update
+date:   2021-01-13 11:11:23 -0500
+# categories: 
 
 # header: 
 #     image: /_images/cyberpunk.jpg
