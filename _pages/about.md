@@ -11,4 +11,4 @@ My interest in cultural history also extends to video games, particularly in the
 
 I received my BA in History and English from University College Cork, an MA in Chinese Studies from the University of Sheffield and a PhD in History from the University of Texas at Austin.
 
-You can find more information on my work, including my CV, [here](https://centre.academia.edu/JohnHarney). If you'd like to get in touch, you can say hello on twitter at [@profjohnharney](https://www.twitter.com/profjohnharney).
+You can find more information on my work, including my CV, [here](/cv/). If you'd like to get in touch, you can say hello on twitter at [@profjohnharney](https://www.twitter.com/profjohnharney) or look me up on my [faculty page](https://www.centre.edu/directory/name/john-harney/) at Centre.
