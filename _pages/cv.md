@@ -18,8 +18,8 @@ B.A., History and English Literature, University College Cork, 2002
 
 ## Experience
 
-Associate Professor, Centre College, 2019-
-Assistant Professor, Centre College, 2013-2019 
+Associate Professor, Centre College, 2019-  
+Assistant Professor, Centre College, 2013-2019  
 Visiting Assistant Professor, DePaul University, 2011-2013    
 
 ## Selected Written Work
