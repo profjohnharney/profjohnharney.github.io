@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "John Harney"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Writing about teaching, tech and video games."
-  location         : "Centre College, Kentucky"
-  email            :
+  avatar           : "/_images/harney_author.jpg"
+  bio              : "Associate Professor of History, Centre College"
+  # location         : "Centre College, Kentucky"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:john.harney@centre.edu"
     - label: "Centre Trail"
       icon: "fas fa-fw fa-link"
       url: "http://www.centretrail.com"
@@ -275,7 +275,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: # true
       share: true
@@ -288,4 +288,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
+      author_profile: true
