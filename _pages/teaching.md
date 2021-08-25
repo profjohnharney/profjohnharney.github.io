@@ -4,8 +4,5 @@ title: Teaching
 permalink: /teaching/
 ---
 
-[History Bots](https://profjohnharney.github.io/historybots/)   
+[HIS 333: Chairman Mao's China](teaching/his333/)   
 
-[Popular Sport and the Modern World](https://sites.centre.edu/popularsport/)   
-
-[Spirits, Gods and Ghosts of East Asia](https://sites.centre.edu/ghostsofasia/)   
