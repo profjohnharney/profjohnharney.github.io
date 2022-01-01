@@ -8,8 +8,9 @@ main:
     url: /teaching/
   - title: "Digital Projects"
     url: /tech/
-  - title: "Writing"
-    url: /writing/
+  
+  # - title: "Writing"
+  #   url: /writing/
   
   
   
