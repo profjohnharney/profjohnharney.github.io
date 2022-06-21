@@ -24,6 +24,8 @@ Visiting Assistant Professor, DePaul University, 2011-2013
 
 ## Selected Written Work
 
+“All-Stars, Amateurs and Acrimony: Gene Doyle’s 1920 Tour,” In: Robert Fitts (ed.), *Tours of Japan* (tentative title). Society for American Baseball Research (2022).  
+
 ["Wolfenstein: Youngblood's impossible 80s setting makes you want to save the world."](https://www.rockpapershotgun.com/2020/01/08/wolfenstein-youngbloods-impossible-80s-setting-makes-you-want-to-save-the-world/) *Rock Paper Shotgun*, 8th January 2020.
 
 *Empire of Infields: Baseball in Taiwan and Cultural Identity, 1895-1968*. Lincoln, Nebraska: University of Nebraska Press (2019).
