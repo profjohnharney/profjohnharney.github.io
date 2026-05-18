@@ -12,6 +12,6 @@ My interest in cultural history also extends to video games, particularly in the
 
 I received my BA in History and English from University College Cork, an MA in Chinese Studies from the University of Sheffield and a PhD in History from the University of Texas at Austin.
 
-In 2025 I rediscovered my love of photography. I blog about it here on my website, and prints are available at my [Etsy shop](HarneyPhotography.etsy.com).
+In 2025 I rediscovered my love of photography. I blog about it [here](https://www.profjohnharney.com/blog/) on my website, and prints are available at my [Etsy shop](HarneyPhotography.etsy.com).
 
 If you’d like to get in touch, you can say hello on any of my socials, linked below, or look me up on my faculty page at [Centre](https://www.centre.edu/about/faculty-staff/john-harney).
